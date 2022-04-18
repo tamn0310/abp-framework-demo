@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "ProductService": {
+      "path": "ProductService.abpmdl.json"
+    }
+  }
+}

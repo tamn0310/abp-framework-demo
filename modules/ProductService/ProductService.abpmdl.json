@@ -1,0 +1,111 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "ProductService.Domain.Shared": {
+      "path": "src/ProductService.Domain.Shared/ProductService.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "ProductService.Domain": {
+      "path": "src/ProductService.Domain/ProductService.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "ProductService.Application.Contracts": {
+      "path": "src/ProductService.Application.Contracts/ProductService.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "ProductService.Application": {
+      "path": "src/ProductService.Application/ProductService.Application.abppkg.json",
+      "folder": "src"
+    },
+    "ProductService.EntityFrameworkCore": {
+      "path": "src/ProductService.EntityFrameworkCore/ProductService.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "ProductService.MongoDB": {
+      "path": "src/ProductService.MongoDB/ProductService.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "ProductService.HttpApi": {
+      "path": "src/ProductService.HttpApi/ProductService.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "ProductService.HttpApi.Client": {
+      "path": "src/ProductService.HttpApi.Client/ProductService.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "ProductService.TestBase": {
+      "path": "test/ProductService.TestBase/ProductService.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "ProductService.EntityFrameworkCore.Tests": {
+      "path": "test/ProductService.EntityFrameworkCore.Tests/ProductService.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "ProductService.MongoDB.Tests": {
+      "path": "test/ProductService.MongoDB.Tests/ProductService.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "ProductService.Domain.Tests": {
+      "path": "test/ProductService.Domain.Tests/ProductService.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "ProductService.Application.Tests": {
+      "path": "test/ProductService.Application.Tests/ProductService.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "ProductService.HttpApi.Host": {
+      "path": "host/ProductService.HttpApi.Host/ProductService.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "ProductService.Web": {
+      "path": "src/ProductService.Web/ProductService.Web.abppkg.json",
+      "folder": "src"
+    },
+    "ProductService.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/ProductService.HttpApi.Client.ConsoleTestApp/ProductService.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "ProductService.Web.Host": {
+      "path": "host/ProductService.Web.Host/ProductService.Web.Host.abppkg.json",
+      "folder": "host"
+    },
+    "ProductService.IdentityServer": {
+      "path": "host/ProductService.IdentityServer/ProductService.IdentityServer.abppkg.json",
+      "folder": "host"
+    },
+    "ProductService.Host.Shared": {
+      "path": "host/ProductService.Host.Shared/ProductService.Host.Shared.abppkg.json",
+      "folder": "host"
+    },
+    "ProductService.Web.Unified": {
+      "path": "host/ProductService.Web.Unified/ProductService.Web.Unified.abppkg.json",
+      "folder": "host"
+    },
+    "ProductService.Blazor": {
+      "path": "src/ProductService.Blazor/ProductService.Blazor.abppkg.json",
+      "folder": "src"
+    },
+    "ProductService.Blazor.Host": {
+      "path": "host/ProductService.Blazor.Host/ProductService.Blazor.Host.abppkg.json",
+      "folder": "host"
+    },
+    "ProductService.Blazor.Server": {
+      "path": "src/ProductService.Blazor.Server/ProductService.Blazor.Server.abppkg.json",
+      "folder": "src"
+    },
+    "ProductService.Blazor.WebAssembly": {
+      "path": "src/ProductService.Blazor.WebAssembly/ProductService.Blazor.WebAssembly.abppkg.json",
+      "folder": "src"
+    },
+    "ProductService.Blazor.Server.Host": {
+      "path": "host/ProductService.Blazor.Server.Host/ProductService.Blazor.Server.Host.abppkg.json",
+      "folder": "host"
+    }
+  }
+}
